@@ -19,6 +19,8 @@
 2. Open `index.html` in your browser
 3. Use arrow keys to move the car and avoid crashing!
 
+🔗 Live Demo: [Play DashingCar Game](zingy-scone-4a006e.netlify.app)
+
 ## 📄 License
 
 MIT License © 2025 Krish Gupta
